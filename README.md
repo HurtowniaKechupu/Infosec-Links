@@ -20,10 +20,10 @@ I just needed to organize my infosec links
 #### Links regarding `CTFs and Wargames`
 
 * [**Wargame**: _Over The Wire_](https://overthewire.org/wargames/)
-* [**Hub**: _CTF Field Guide_](https://trailofbits.github.io/ctf/)
-* [**CTFs**: _Vulnhub_](https://www.vulnhub.com/)
-* [**CTFs**: _OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
-* [**CTFs**: _Pwning OWASP Juice Shop](https://pwning.owasp-juice.shop/)
+* [**Hub**: CTF Field Guide_](https://trailofbits.github.io/ctf/)
+* [**CTFs**: Vulnhub_](https://www.vulnhub.com/)
+* [**CTFs**: OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
+* [**CTFs**: Pwning OWASP Juice Shop](https://pwning.owasp-juice.shop/)
 
 #### Links regarding `Scanning`
 
