@@ -4,8 +4,9 @@ I just needed to organize my infosec links
 
 ## Table of contents
 * [Azure](#azure)
+* [CTFs and Wargames](#ctfs_&_wargames)
 * [Scanning](#scanning)
-
+* [Not Infosec](#not_infosec)
 ## Links
 
 #### Links regarding `Azure`
@@ -15,6 +16,15 @@ I just needed to organize my infosec links
 * [**blog**: _Good (Azure) Workaround_](https://goodworkaround.com/)
 * [**book**: _Penetration Testing Azure for Ethical Hackers_](https://github.com/PacktPublishing/Penetration-Testing-Azure-for-Ethical-Hackers)
 
+
+#### Links regarding `CTFs and Wargames`
+
+[**Wargame**: _Over The Wire_](https://overthewire.org/wargames/)
+[**Hub**: _CTF Field Guide_](https://trailofbits.github.io/ctf/)
+[**CTFs**: _Vulnhub_](https://www.vulnhub.com/)
+[**CTFs**: _OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
+[**CTFs**: _Pwning OWASP Juice Shop](https://pwning.owasp-juice.shop/)
+
 #### Links regarding `Scanning`
 
 * [**AD security**: _Ping Castle_](https://www.pingcastle.com/)
@@ -22,3 +32,8 @@ I just needed to organize my infosec links
 * [**network**: _Natlas_](https://github.com/natlas/natlas)
 * [**website**: _urlscan.io_](https://urlscan.io/)
 
+
+
+#### Links regarding `Not Infosec`
+
+* [**CV**: _CV editor_](https://flowcv.io/)
