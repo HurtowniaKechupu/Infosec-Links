@@ -1,5 +1,5 @@
 # Infosec-Links
-I just needed to organize my infosec links
+I just needed to organize my infosec links (work in progress)
 
 
 ## Table of contents
@@ -27,7 +27,7 @@ I just needed to organize my infosec links
 
 #### Links regarding `Scanning`
 
-* [**AD **: _Ping Castle_](https://www.pingcastle.com/) find AD vulnerabilities
+* [**AD**: _Ping Castle_](https://www.pingcastle.com/) find AD vulnerabilities
 * [**file**: _Virus Total_](https://www.virustotal.com/gui/home/upload) Test files
 * [**network**: _Natlas_](https://github.com/natlas/natlas) Recon
 * [**website**: _urlscan.io_](https://urlscan.io/) Test sites
